@@ -29,7 +29,7 @@ public class ArraysInJava
         {
             arrayOfSuperClassReferences[i] = new B();     //array element pointing to sub class object
  
-            arrayOfSuperClassReferences[i].methodOne();   //accessing member of sub class object
+            arrayOfSuperClassReferences[i].methodOne();   //accessing member of sub class object print
         }
     }
 }
